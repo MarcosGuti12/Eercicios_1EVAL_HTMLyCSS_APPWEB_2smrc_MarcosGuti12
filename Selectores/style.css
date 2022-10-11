@@ -1,17 +1,19 @@
 h1.hola{
 color: blue;
 background-color:yellow ;
+border:red 5px solid;
 }
 h1.Adios{
 color: blue;
 background-color: aqua;
+border:blue 5px solid;
 }
 body{
     background-color:chartreuse;
 }
-image.Villablanca{
+.Villablanca{
 width: 200px;
 height: 200px;
-
-
+margin: 70px;
+border:rgb(24, 38, 233) 5px solid;
 }
