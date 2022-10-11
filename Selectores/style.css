@@ -17,3 +17,7 @@ height: 200px;
 margin: 70px;
 border:rgb(24, 38, 233) 5px solid;
 }
+h1 mark{
+    background-color: white;
+    color: red;
+}
