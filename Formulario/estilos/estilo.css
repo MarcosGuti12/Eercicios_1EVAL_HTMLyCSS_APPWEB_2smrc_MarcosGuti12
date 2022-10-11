@@ -1,0 +1,15 @@
+h2{
+color:white;
+background-color:blue;
+}
+
+h1{
+text-align: center;
+}
+.villablanca{
+    margin: auto 10px;
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color:lightslategray;
+}
