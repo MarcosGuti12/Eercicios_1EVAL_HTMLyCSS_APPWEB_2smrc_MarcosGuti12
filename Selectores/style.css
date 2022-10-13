@@ -13,11 +13,18 @@ body{
 }
 .Villablanca{
 width: 200px;
-height: 200px;
-margin: 70px;
+height:200px;
+float:right;
 border:rgb(24, 38, 233) 5px solid;
 }
 h1 mark{
     background-color: white;
     color: red;
+}
+h1.Parrafo{
+float:left;
+}
+div{
+    border: blueviolet 3px solid;
+
 }

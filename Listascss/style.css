@@ -1,0 +1,37 @@
+h1{
+
+color:lightcoral;
+font-family:Haettenschweiler;
+text-align: center;
+}
+dt.HTML{
+background-color:orange;
+font-family:Arial ;
+font-size:0.6cm;
+text-align:center;
+font-weight: 900;
+border-style:double;
+}
+dt.CSS{
+    background-color: aqua;
+    font-family:Arial;
+    font-size: 0.6cm;
+    text-align:center;
+    font-weight: 900;
+    border-style:double;
+
+}
+dt.script{
+    background-color: yellow;
+    font-family: Arial;
+    font-size: 0.6cm;
+    text-align:center;
+    font-weight: 900;
+    border-style:double;
+}
+dd{
+    color: forestgreen;
+    text-align: center;
+    font-size: 0.5cm;
+    
+}
