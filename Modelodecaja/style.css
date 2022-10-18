@@ -1,0 +1,37 @@
+h1{
+    margin-left: 15px;
+    border-style: solid;
+    border-color: gold;
+    background-color: blue;
+    border-width: 6px;
+    border-radius:10px;
+    font-weight: 900;
+    font-variant:small-caps;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a{
+    background-color:rgba(210, 105, 30, 0);
+    color: rgb(72, 255, 0);
+}
+.b{
+    background-color:rgba(210, 105, 30, 0);
+    color: rgb(255, 255, 255);
+}
+body{
+    border: 10px blue solid;
+    background-color: rgb(210, 30, 99);
+    margin: 0px;
+}
+p{
+border: 5px;
+border-color: aqua red green yellow;
+border-style:dashed;
+border-radius: 10px;
+margin-left: 15px;
+padding: 30px;
+width: 10%;
+}
+html{
+    border: 10px green solid;
+
+}
