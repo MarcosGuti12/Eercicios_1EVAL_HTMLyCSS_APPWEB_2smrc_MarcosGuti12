@@ -1,0 +1,30 @@
+/*
+main :first-child{
+    color: blueviolet;
+}
+*/
+a:visited{
+    color: rgb(20, 255, 32);
+    background-color: darkgoldenrod;
+}
+a:link{
+    color:red;
+    background-color: lightslategrey;
+}
+a:hover{
+    color: dodgerblue;
+    background-color: gold;
+}
+p:hover{
+    color:blue;
+}
+a:active{
+    font-size: xx-large;
+}
+input:focus{
+    background-color: yellow;
+    border:red 5px solid;
+}
+.siu:hover{
+    color:chartreuse;
+}
