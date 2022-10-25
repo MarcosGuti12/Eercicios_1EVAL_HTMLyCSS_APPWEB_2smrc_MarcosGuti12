@@ -1,12 +1,27 @@
 mark.aa{
     margin-left: 160px;
     background-color: cadetblue;
+    font-variant:small-caps;
 }
 span.mundo1{
-color:aqua;
-background-color: rgb(255, 0, 0);
+    color:aqua;
+    background-color: rgb(255, 0, 0);
+    font-variant:small-caps;
+    font-size:x-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
 }
 span.mundo2{
     color:rgb(247, 0, 255);
     background-color: rgb(0, 0, 0);
+    font-size:x-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant:small-caps;
     }
+pre{
+    color:hotpink;
+}
+body{
+    background-color: gold;
+}
