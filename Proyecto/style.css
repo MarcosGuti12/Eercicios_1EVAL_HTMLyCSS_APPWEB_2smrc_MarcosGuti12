@@ -1,0 +1,12 @@
+.ESP{
+    width: 10cm;
+    border: 10px red double;
+    bo0cmrder-radius: 1cm;
+    margin: 0cm 0cm 0cm 3.5cm;
+}
+.El{
+    color: red;
+    background-color: yellow;
+    font-size: x-large;
+    margin-left: 5cm;
+}
