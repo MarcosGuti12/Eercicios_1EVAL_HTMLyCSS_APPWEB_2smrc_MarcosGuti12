@@ -1,12 +1,18 @@
 .ESP{
     width: 10cm;
     border: 10px red double;
-    bo0cmrder-radius: 1cm;
-    margin: 0cm 0cm 0cm 3.5cm;
+    border-radius: 1cm;
 }
 .El{
     color: red;
     background-color: yellow;
     font-size: x-large;
-    margin-left: 5cm;
+    text-align: center;  
+    
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
 }
